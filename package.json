@@ -1,0 +1,20 @@
+{
+  "name": "avax-data-sifter",
+  "version": "1.0.0",
+  "description": "An endeavour to find the address that moved a specific amount of AVAX",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fiddlekins/avax-data-sifter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
